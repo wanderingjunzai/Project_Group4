@@ -1,0 +1,28 @@
+{
+    "binance": {
+        "api_key": "Nd8HCepr3NNbEdS2yJ6onM7hcWagiFVdghqcMQ3Uj6JHIlwOIGhEa79ribf0fuIK",
+        "api_secret": "f74YLBJfU4K1oDd59FQI4IhNfs1dwkZywEv4MBq60rCjienn2w91pnCv5O6d6rXL"
+    },
+    "database": {
+        "driver": "mongodb",
+        "host": "localhost",
+        "port": 27017,
+        "database": "crypto_trading",
+        "timezone": "Asia/Shanghai"
+    },
+    "datafeed": {
+        "name": "binance",
+        "host": "https://testnet.binancefuture.com",
+        "username": "",
+        "password": ""
+    },
+    "trading": {
+        "symbols": ["BTCUSDT"],              
+        "intervals": ["1m"],                 
+        "risk_limit": 0.02,               
+        "max_positions": 1,                
+        "initial_capital": 1000000        
+    },
+    "font.family": "Microsoft YaHei",
+    "font.size": 12
+}

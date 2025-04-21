@@ -1,0 +1,12 @@
+{
+    "font.family": "Microsoft YaHei",
+    "font.size": 12,
+    
+    "database.timezone": "Asia/Shanghai",
+    "database.driver": "mongodb",  
+    "database.host": "localhost",
+    "database.port": 27017,
+    "database.database": "crypto_trading",
+    "database.user": "",
+    "database.password": ""
+}
