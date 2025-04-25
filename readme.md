@@ -73,16 +73,8 @@ pip install -r requirements.txt
 
 1. **配置环境**
    ```bash
-   # 克隆项目
-   git clone https://github.com/yourusername/vnpy-crypto-trading.git
-   cd vnpy-crypto-trading
-   
    # 安装依赖
    pip install -r requirements.txt
-   
-   # 启动MongoDB
-   mongod --dbpath /path/to/data/db
-   ```
 
 2. **配置币安API**
    ```python
