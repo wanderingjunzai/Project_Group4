@@ -97,6 +97,8 @@ pip install -r requirements.txt
    python run_live_trading.py
    ```
 
+6.
+
 ## 项目结构
 
 ```
