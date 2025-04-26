@@ -5,7 +5,7 @@
 ## 技术栈
 
 - **环境管理**：Anaconda
-- **编程语言**：Python 3.9
+- **编程语言**：Python 3.10
 - **量化框架**：VnPy 3.9.4
 - **交易所接口**：ccxt、vnpy-binance
 - **数据库**：MongoDB
